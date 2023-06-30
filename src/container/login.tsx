@@ -1,31 +1,37 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import logo from "../logoTvT.png";
 import "./login.css";
 
 import { useNavigate } from "react-router-dom";
+import TokenStorage from "../tokenStorage/tokenStorage";
 
-import { HttpStatusCode } from "axios";
-import LoginApi from "../api/loginApi";
+const tokenStorage = new TokenStorage();
 
-const loginApi = new LoginApi();
 export default function LoginComponent() {
   const navigate = useNavigate();
   const [erroLogin, setErroLogin] = useState("");
+
+  function validateEntryToken() {
+    if (tokenStorage.getTokenId() === tokenStorage.realToken()) {
+      navigate("/dashboard");
+    }
+  }
+  useEffect(() => {
+    validateEntryToken();
+  }, []);
+
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    const data = new FormData(event.currentTarget);
-    const username: any = data.get("username");
-    const password: any = data.get("password");
 
-    try {
-      const makeLogin = await loginApi.login(username, password);
-      if (makeLogin.status === HttpStatusCode.Ok) {
-        navigate("/user-assets");
-      }
-      if (makeLogin.status === HttpStatusCode.NoContent) {
-        setErroLogin("Registro não encontrado, tente novamente.");
-      }
-    } catch (error) {}
+    let params = new URLSearchParams(document.location.search);
+    let tokenId: any = params.get("tokenId");
+
+    if (tokenId === tokenStorage.realToken()) {
+      tokenStorage.setTokenId(tokenId);
+      navigate("/dashboard");
+    } else {
+      setErroLogin("Token informado está expirado ou desabilitado.");
+    }
   };
 
   return (
@@ -38,19 +44,7 @@ export default function LoginComponent() {
         <div className="form">
           <p style={{ color: "red" }}>{erroLogin}</p>
           <form className="login-form" onSubmit={handleSubmit}>
-            <input type="text" name="username" placeholder="Usuário" required />
-            <input
-              type="password"
-              name="password"
-              placeholder="Senha"
-              required
-            />
-            <button type="submit">Entrar</button>
-            <p className="message">
-              <a href="#" onClick={() => navigate("/new-user")}>
-                Criar uma conta
-              </a>
-            </p>
+            <button type="submit">Validar</button>
           </form>
         </div>
       </div>
