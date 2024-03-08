@@ -30,8 +30,10 @@ export default function Dashboard() {
   ];
 
   return (
+    
     <div className="card">
-      <Menubar model={items} />
+      
+      
 
       <Table />
     </div>
