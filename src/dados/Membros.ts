@@ -210,6 +210,27 @@ export const membrosEstaticos =
      
     },
 
+    {
+     nome:"João Henrique Paiva Ferreira",
+     dados:{
+      dataEntradaEquipe:"2021",
+      dataNascimento:"02/03/1981",
+      rg:"3073443016",
+      cpf:"81089813015",
+      telefone:"51 984060659",
+      email:"jh.paiva@outlook.com",
+      endereco:"João Otto Paiva 83 - Hipica POA cep 91788-046",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Mãe de Deus",
+      contatosEmergencia: "Edna Paiva 99556679",
+      medicamentoUsoCont:"BencarAlo 20/5",
+      problemaSaude: "Hipertensão",
+      planoSaude: "Unimed Seguros"
+    } 
+     
+    },
+
     
 
 
