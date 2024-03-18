@@ -27,65 +27,65 @@ export default function Table() {
       </DataTable>
             <Dialog header="Dados" visible={visible} style={{ width: '50vw' }} onHide={() => setVisible(false)}>
                 <p className="m-0">
-                  {membroSelecionado.nome}
+                Nome: {membroSelecionado.nome}
                
                 </p>
                 <p className="m-0">
                   
-                  {membroSelecionado.dados?.entradaEquipe}
+                 Entrada na equipe:{membroSelecionado.dados?.entradaEquipe}
              
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.dataNascimento}
+                  Data nascimento:{membroSelecionado.dados?.dataNascimento}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.rg}
+                  RG: {membroSelecionado.dados?.rg}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.cpf}
+                CPF: {membroSelecionado.dados?.cpf}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.telefone}
+                  Telefone: {membroSelecionado.dados?.telefone}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.email}
+                  Email: {membroSelecionado.dados?.email}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.endereco}
+                  Endereço: {membroSelecionado.dados?.endereco}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.tipoSangue}
+                  Tipo sanguíneo: {membroSelecionado.dados?.tipoSangue}
                 </p>
                   <p className="m-0">
                  
-                  {membroSelecionado.dados?.alergias}
+                  Alergias: {membroSelecionado.dados?.alergias}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.hospitalPreferencia}
+                  Hospital de preferência: {membroSelecionado.dados?.hospitalPreferencia}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.contatoEmergencia}
+                  Contato de emergência: {membroSelecionado.dados?.contatoEmergencia}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.medicamentoUsoCont}
+                  Medicamento de uso contínuo: {membroSelecionado.dados?.medicamentoUsoCont}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.problemaSaude}
+                  Problema de saúde: {membroSelecionado.dados?.problemaSaude}
                 </p>
                 <p className="m-0">
                  
-                  {membroSelecionado.dados?.planoSaude}
+                  Plano de saúde: {membroSelecionado.dados?.planoSaude}
                 </p>
             </Dialog>
     </div>
