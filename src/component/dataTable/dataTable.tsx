@@ -73,19 +73,19 @@ export default function Table() {
                 </p>
                 <p className="m-0">
                  
-                 <b> Contato de emergência: {membroSelecionado.dados?.contatoEmergencia}
+                 <b> Contato de emergência:</b> {membroSelecionado.dados?.contatoEmergencia}
                 </p>
                 <p className="m-0">
                  
-                 <b> Medicamento de uso contínuo: {membroSelecionado.dados?.medicamentoUsoCont}
+                 <b> Medicamento de uso contínuo:</b> {membroSelecionado.dados?.medicamentoUsoCont}
                 </p>
                 <p className="m-0">
                  
-                 <b> Problema de saúde: {membroSelecionado.dados?.problemaSaude}
+                 <b> Problema de saúde:</b> {membroSelecionado.dados?.problemaSaude}
                 </p>
                 <p className="m-0">
                  
-                 <b> Plano de saúde: {membroSelecionado.dados?.planoSaude}
+                 <b> Plano de saúde:</b> {membroSelecionado.dados?.planoSaude}
                 </p>
             </Dialog>
     </div>
