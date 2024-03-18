@@ -16,7 +16,7 @@ export const membrosEstaticos =
       contatosEmergencia: "51 9992702423 - Emanuela(Mãe)",
       medicamentoUsoCont:"Nega",
       problemaSaude: "Nega",
-      planoSaude: "IP"
+      planoSaude: "Ipê saúde"
     } 
      
     },
@@ -83,6 +83,238 @@ export const membrosEstaticos =
     } 
      
     },
+
+    {
+     nome:"Guilherme Dos Santos Acosta ",
+     dados:{
+      dataEntradaEquipe:"2018",
+      dataNascimento:"31/05/1995",
+      rg:"1108536184",
+      cpf:"1546400001",
+      telefone:"51 985586919",
+      email:"Guilherme.acostagsa@gmail.com",
+      endereco:"Rua João da Silva bueno 227, ap 420",
+      tipoSangue:"O+",
+      alergias:"Nega",
+      hospitalPreferencia:"Hospital da brigada militar",
+      contatosEmergencia: "51999979893 - Karolina esposa",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Ipê saúde"
+    } 
+     
+    },
+
+     {
+     nome:"Elton Delazari Junior",
+     dados:{
+      dataEntradaEquipe:" 2018/19",
+      dataNascimento:"19/01/1982",
+      rg:"1084911138",
+      cpf:"00557934010",
+      telefone:"51 984142206",
+      email:"eltondjunior@yahoo.com.br",
+      endereco:"beco do pinheiro 205 estava velha Canoas.",
+      tipoSangue:"O+",
+      alergias:"Plasio injetado",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "51984142242",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+
+      {
+     nome:"Jeferson Tuffani Serafim",
+     dados:{
+      dataEntradaEquipe:"mai/23",
+      dataNascimento:"21/08/1986",
+      rg:"6085892336",
+      cpf:"1196248001",
+      telefone:"51 986250867",
+      email:"jefersontserafim@gmail.com",
+      endereco:"rua José Celestino da Silva 230 / Porto Alegre",
+      tipoSangue:"O+",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Unimed"
+    } 
+     
+    },
+
+    {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+
+     {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+ {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+ {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+ {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+ {
+     nome:"Anderson Renato Chiabotto Moreira ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"13/09/1983",
+      rg:"2084605522",
+      cpf:"81740280059",
+      telefone:"51 998757758",
+      email:"anderson_chiabotto@icloud.com",
+      endereco:"Rua Braille 422",
+      tipoSangue:"Sem info",
+      alergias:"Nega",
+      hospitalPreferencia:"Sem preferência",
+      contatosEmergencia: "Claudia 51992750867",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+ {
+     nome:" Carlos Eduardo do Prado Marques",
+     dados:{
+      dataEntradaEquipe:"Maio/2023",
+      dataNascimento:"02/10/1976",
+      rg:"3064631165",
+      cpf:"88123421087",
+      telefone:"51 993770383",
+      email:"cepmarques@gmail.com",
+      endereco:"  Rua Santa Terezinha, 590/apto302, Farroupilha, Porto Alegre-RS CEP 90040-180",
+      tipoSangue:"O+",
+      alergias:"Nega",
+      hospitalPreferencia:"Hernesto Dornelles, HPS, HCPA, Mãe de Deus...",
+      contatosEmergencia: "Nathalia 51 981178744",
+      medicamentoUsoCont:"Alektos e Avamys (rinite)",
+      problemaSaude: "Nega",
+      planoSaude: "IPE Saúde e Saúde PAS/Unimed"
+    } 
+     
+    },
+
+     {
+     nome:"Diego Motta Calovi ",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"06/11/1984",
+      rg:"1081308718",
+      cpf:"00596802021",
+      telefone:"51 984060659",
+      email:"Diegocalovi@gmail.com",
+      endereco:"Rua Bom Jesus 717 - Bairro Bom Jesus - POA",
+      tipoSangue:"A+",
+      alergias:"Nega",
+      hospitalPreferencia:"Hospital Cristo Redentor (SUS)",
+      contatosEmergencia: "Esposa - Ivanir 51 985299417 / Mãe - ida 51998716310",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Dores na coluna e enxaqueca crônica",
+      planoSaude: "Nega"
+    } 
+     
+    },
+
+    
+
+
+
+        
    
 
 
