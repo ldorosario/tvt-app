@@ -27,65 +27,65 @@ export default function Table() {
       </DataTable>
             <Dialog header="Dados" visible={visible} style={{ width: '50vw' }} onHide={() => setVisible(false)}>
                 <p className="m-0">
-                Nome: {membroSelecionado.nome}
+                <b>Nome:</b> {membroSelecionado.nome}
                
                 </p>
                 <p className="m-0">
                   
-                 Entrada na equipe:{membroSelecionado.dados?.entradaEquipe}
+                 <b>Entrada na equipe:</b> {membroSelecionado.dados?.entradaEquipe}
              
                 </p>
                 <p className="m-0">
                  
-                  Data nascimento:{membroSelecionado.dados?.dataNascimento}
+                  <b> Data nascimento:</b> {membroSelecionado.dados?.dataNascimento}
                 </p>
                 <p className="m-0">
                  
-                  RG: {membroSelecionado.dados?.rg}
+                 <b> RG:</b> {membroSelecionado.dados?.rg}
                 </p>
                 <p className="m-0">
                  
-                CPF: {membroSelecionado.dados?.cpf}
+                <b> CPF:</b> {membroSelecionado.dados?.cpf}
                 </p>
                 <p className="m-0">
                  
-                  Telefone: {membroSelecionado.dados?.telefone}
+                 <b> Telefone:</b> {membroSelecionado.dados?.telefone}
                 </p>
                 <p className="m-0">
                  
-                  Email: {membroSelecionado.dados?.email}
+                 <b> Email:</b> {membroSelecionado.dados?.email}
                 </p>
                 <p className="m-0">
                  
-                  Endereço: {membroSelecionado.dados?.endereco}
+                 <b> Endereço:</b> {membroSelecionado.dados?.endereco}
                 </p>
                 <p className="m-0">
                  
-                  Tipo sanguíneo: {membroSelecionado.dados?.tipoSangue}
+                <b> Tipo sanguíneo:</b> {membroSelecionado.dados?.tipoSangue}
                 </p>
                   <p className="m-0">
                  
-                  Alergias: {membroSelecionado.dados?.alergias}
+                <b> Alergias:</b> {membroSelecionado.dados?.alergias}
                 </p>
                 <p className="m-0">
                  
-                  Hospital de preferência: {membroSelecionado.dados?.hospitalPreferencia}
+                 <b> Hospital de preferência:</b> {membroSelecionado.dados?.hospitalPreferencia}
                 </p>
                 <p className="m-0">
                  
-                  Contato de emergência: {membroSelecionado.dados?.contatoEmergencia}
+                 <b> Contato de emergência: {membroSelecionado.dados?.contatoEmergencia}
                 </p>
                 <p className="m-0">
                  
-                  Medicamento de uso contínuo: {membroSelecionado.dados?.medicamentoUsoCont}
+                 <b> Medicamento de uso contínuo: {membroSelecionado.dados?.medicamentoUsoCont}
                 </p>
                 <p className="m-0">
                  
-                  Problema de saúde: {membroSelecionado.dados?.problemaSaude}
+                 <b> Problema de saúde: {membroSelecionado.dados?.problemaSaude}
                 </p>
                 <p className="m-0">
                  
-                  Plano de saúde: {membroSelecionado.dados?.planoSaude}
+                 <b> Plano de saúde: {membroSelecionado.dados?.planoSaude}
                 </p>
             </Dialog>
     </div>
