@@ -32,12 +32,60 @@ export default function Table() {
                 </p>
                 <p className="m-0">
                   
-                  {membroSelecionado.dados?.telefone}
+                  {membroSelecionado.dados?.entradaEquipe}
              
                 </p>
                 <p className="m-0">
                  
+                  {membroSelecionado.dados?.dataNascimento}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.rg}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.cpf}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.telefone}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.email}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.endereco}
+                </p>
+                <p className="m-0">
+                 
                   {membroSelecionado.dados?.tipoSangue}
+                </p>
+                  <p className="m-0">
+                 
+                  {membroSelecionado.dados?.alergias}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.hospitalPreferencia}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.contatoEmergencia}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.medicamentoUsoCont}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.problemaSaude}
+                </p>
+                <p className="m-0">
+                 
+                  {membroSelecionado.dados?.planoSaude}
                 </p>
             </Dialog>
     </div>
