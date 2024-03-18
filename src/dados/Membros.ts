@@ -18,7 +18,6 @@ export const membrosEstaticos =
       problemaSaude: "Nega",
       planoSaude: "IP"
     } 
-     
     },
     {
         nome:"Nome Teste2",
