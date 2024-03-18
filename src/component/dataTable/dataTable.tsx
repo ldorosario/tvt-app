@@ -87,6 +87,7 @@ export default function Table() {
                  
                  <b> Plano de saúde:</b> {membroSelecionado.dados?.planoSaude}
                 </p>
+              
             </Dialog>
     </div>
   );
