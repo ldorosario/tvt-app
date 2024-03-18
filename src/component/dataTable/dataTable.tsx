@@ -73,7 +73,7 @@ export default function Table() {
                 </p>
                 <p className="m-0">
                  
-                 <b> Contato de emergência:</b> {membroSelecionado.dados?.contatoEmergencia}
+                 <b> Contato de emergência:</b> {membroSelecionado.dados?.contatosEmergencia}
                 </p>
                 <p className="m-0">
                  
