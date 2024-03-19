@@ -463,6 +463,27 @@ export const membrosEstaticos =
      
     },
     
+                  {
+     nome:"Lucas Do Rosário Pereira",
+     dados:{
+      dataEntradaEquipe:"Membro Fundador",
+      dataNascimento:"17/10/1990",
+      rg:"02403138010",
+      cpf:"2103248577",
+      telefone:"51 982806410",
+      email:"ldorosario@gmail.com; ldorosariop@gmail.com; lucas_rosario@sicredi.com.br",
+      endereco:"Av Polonia 255 Torre 3 apt 319",
+      tipoSangue:"O-",
+      alergias:"Nega",
+      hospitalPreferencia:"Moinhos de Vento, Mãe de Deus, São Lucas PUCRS",
+      contatosEmergencia: "51 995724595 (Karine Esposa)",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Platina Fêmur Esquerdo",
+      planoSaude: "Unimed Unimax"
+    } 
+     
+    },
+    
     
     
 
