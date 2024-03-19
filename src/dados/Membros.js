@@ -230,4 +230,175 @@ exports.membrosEstaticos = [
             planoSaude: "Nega"
         }
     },
+    {
+        nome: "Welinton Fernando Carvalho Quadros",
+        dados: {
+            dataEntradaEquipe: "Sem info",
+            dataNascimento: "27/03/1999",
+            rg: "5127891058",
+            cpf: "60090017064",
+            telefone: "51 982622505",
+            email: "fernandopheelps@gmail.com",
+            endereco: "Alceri Garcia Flores 123",
+            tipoSangue: "Sem info",
+            alergias: "Nega",
+            hospitalPreferencia: "Qualquer um",
+            contatosEmergencia: "51 983043672",
+            medicamentoUsoCont: "Aerolin",
+            problemaSaude: "Asma",
+            planoSaude: "Nega"
+        }
+    },
+    {
+        nome: "Carlos Alberto Fraga de Ávila",
+        dados: {
+            dataEntradaEquipe: "2024",
+            dataNascimento: "16/06/1982",
+            rg: "6082122241",
+            cpf: "00153776013",
+            telefone: "51 991757676",
+            email: "fraga9999@gmail.com",
+            endereco: "Rua Tafé, 69 Santa Isabel - Viamão",
+            tipoSangue: "O+",
+            alergias: "Viagra",
+            hospitalPreferencia: "Qualquer um menos de Viamão",
+            contatosEmergencia: "51 99834507 Jennifer esposa",
+            medicamentoUsoCont: "Durateton + Deca + Masteron + Trembolona",
+            problemaSaude: "Nega",
+            planoSaude: "Nega"
+        }
+    },
+    {
+        nome: "Claudio Pereira Sperling",
+        dados: {
+            dataEntradaEquipe: "Fundação da equipe",
+            dataNascimento: "03/02/1972",
+            rg: "4035130378",
+            cpf: "60665084072",
+            telefone: "51 991455400",
+            email: "treinador.xuxa@hotmail.com",
+            endereco: "Rua Domicio da Gama, 314",
+            tipoSangue: "B+",
+            alergias: "Nega",
+            hospitalPreferencia: "O mais próximo",
+            contatosEmergencia: "51 995622621 Elke-Dinda 98562978 Sabrina Esposa",
+            medicamentoUsoCont: "Maleato de enalapril 30mmg/dia",
+            problemaSaude: "Hipertensão e Hérnia de disco",
+            planoSaude: "Unimed"
+        }
+    },
+    {
+        nome: "Lucas Pinto Da Silva Gnoatto",
+        dados: {
+            dataEntradaEquipe: "06/01/2024",
+            dataNascimento: "10/04/2000",
+            rg: "2121701854",
+            cpf: "021818816042",
+            telefone: "51 996292980",
+            email: "lucasgnoatto10@gmail.com",
+            endereco: "Rua Uruguay, 165, Castelo Branco - Gravatai-RS",
+            tipoSangue: "A+",
+            alergias: "Nega",
+            hospitalPreferencia: "Sem Preferência",
+            contatosEmergencia: "51 997258264 Lais Gnoatto",
+            medicamentoUsoCont: "Nega",
+            problemaSaude: "Nega",
+            planoSaude: "Nega"
+        }
+    },
+    {
+        nome: "Marcos Silveira Hahn",
+        dados: {
+            dataEntradaEquipe: "fev/22",
+            dataNascimento: "29/04/1980",
+            rg: "8061816949",
+            cpf: "90622847015",
+            telefone: "51 996553527",
+            email: "marcos.hahn@gmail.com",
+            endereco: "Av Bento Gonçalves, 9171",
+            tipoSangue: "O+",
+            alergias: "Nega",
+            hospitalPreferencia: "Hospital Mãe de Deus",
+            contatosEmergencia: "Joice 51 999648753",
+            medicamentoUsoCont: "Nega",
+            problemaSaude: "Nega",
+            planoSaude: "UNIMED"
+        }
+    },
+    {
+        nome: "Jandir Viana Brazil",
+        dados: {
+            dataEntradaEquipe: "mar/20",
+            dataNascimento: "05/10/1982",
+            rg: "1083697787",
+            cpf: "99822148020",
+            telefone: "51 992679497",
+            email: "jvb.brazil@gmail.com",
+            endereco: "Rua Laguna 549",
+            tipoSangue: "A-",
+            alergias: "Nega",
+            hospitalPreferencia: "Clinicas",
+            contatosEmergencia: "51 993053390",
+            medicamentoUsoCont: "glifagem e azukon",
+            problemaSaude: "Diabetes 2",
+            planoSaude: "UNIMED"
+        }
+    },
+    {
+        nome: "Flávio da luz Martins Junior",
+        dados: {
+            dataEntradaEquipe: "07/22",
+            dataNascimento: "13/05/1981",
+            rg: "4069016915",
+            cpf: "82206112000",
+            telefone: "51 986224451",
+            email: "flavio.martins1313@gmail.com",
+            endereco: "Icaraí 320 / 205",
+            tipoSangue: "Sem info",
+            alergias: "Penicilina",
+            hospitalPreferencia: "Sem info",
+            contatosEmergencia: "Sem info",
+            medicamentoUsoCont: "Losartana 50mg",
+            problemaSaude: "Nega",
+            planoSaude: "Nega"
+        }
+    },
+    {
+        nome: "Fernando Silva da Silva",
+        dados: {
+            dataEntradaEquipe: "Fundador",
+            dataNascimento: "12/10/1979",
+            rg: "1061807002",
+            cpf: "96838000091",
+            telefone: "51 996466494",
+            email: "fernandosdasilva1979@gmail.com",
+            endereco: "Rua Ivo Walter Kern, 230- Aberta dos Morros/ Porto Alegre- RS",
+            tipoSangue: "A+",
+            alergias: "Rinite Alérgica",
+            hospitalPreferencia: "Sem preferência",
+            contatosEmergencia: "Thaís Fratini (51)99982-0272",
+            medicamentoUsoCont: "Bivolet (Nebivolol) 5mg ",
+            problemaSaude: "Pressão alta",
+            planoSaude: "SUL AMERICA"
+        }
+    },
+    {
+        nome: "Fernando De Lucca Coccaro Rodrigues",
+        dados: {
+            dataEntradaEquipe: "Sem info",
+            dataNascimento: "30/01/1984",
+            rg: "9086898302",
+            cpf: "00428847056",
+            telefone: "51 992534556",
+            email: "fernando.coccaro@gmail.com",
+            endereco: "Rua Mostardeiro, n. 115, complemento 902, bairro Rio Branco, CEP 90430-001, Porto Alegre-RS",
+            tipoSangue: "Sem info",
+            alergias: "Nega",
+            hospitalPreferencia: "Moinho de Vento",
+            contatosEmergencia: "51 99213-1656 (Carolina Haack, esposa)",
+            medicamentoUsoCont: "Nega",
+            problemaSaude: "Nega",
+            planoSaude: "Unimed Unimax"
+        }
+    },
 ];
