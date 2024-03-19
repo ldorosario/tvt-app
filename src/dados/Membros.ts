@@ -231,7 +231,27 @@ export const membrosEstaticos =
      
     },
 
-    
+        {
+     nome:"Kauã Batista De Matos ",
+     dados:{
+      dataEntradaEquipe:"2024",
+      dataNascimento:"14/07/2004",
+      rg:"9119835008",
+      cpf:"60057196028",
+      telefone:"51 998108211",
+      email:"bkaua6520@gmail.com",
+      endereco:"Rua José Barcelos Gama 40",
+      tipoSangue:"A+",
+      alergias:"Nega",
+      hospitalPreferencia:"Santa Casa",
+      contatosEmergencia: "51 985774142",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
+
 
 
 
