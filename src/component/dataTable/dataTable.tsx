@@ -32,7 +32,7 @@ export default function Table() {
                 </p>
                 <p className="m-0">
                   
-                 <b>Entrada na equipe:</b> {membroSelecionado.dados?.entradaEquipe}
+                 <b>Entrada na equipe:</b> {membroSelecionado.dados?.dataEntradaEquipe}
              
                 </p>
                 <p className="m-0">

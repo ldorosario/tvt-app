@@ -442,6 +442,29 @@ export const membrosEstaticos =
      
     },
     
+              {
+     nome:"Pablo Maciel Quintana Ribeiro",
+     dados:{
+      dataEntradaEquipe:"29/01/2022",
+      dataNascimento:"20/08/1983",
+      rg:"1080029191",
+      cpf:"00142084077",
+      telefone:"51 995892527",
+      email:"pabloquintanacm@gmail.com",
+      endereco:"Rua General Rondon 1044 - AP 402",
+      tipoSangue:"A+",
+      alergias:"Diclofenaco e Camarão",
+      hospitalPreferencia:"Divina providência",
+      contatosEmergencia: "51 98402.4156 (Camila)",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Unimed"
+    } 
+     
+    },
+    
+    
+    
 
 
         
