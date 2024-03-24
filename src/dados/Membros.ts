@@ -485,7 +485,26 @@ export const membrosEstaticos =
     },
     
     
-    
+         {
+    nome:"Vinicius Oliveira De Freitas",
+     dados:{
+      dataEntradaEquipe:"Sem info",
+      dataNascimento:"15/10/1991",
+      rg:"9106207039",
+      cpf:"02085431046",
+      telefone:"51 997216077",
+      email:"viniciusfreitas_major@hotmail.com",
+      endereco:"Bairro Santo Afonso, rua ciudad trujilo 172 Novo Hamburgo",
+      tipoSangue:"Sem info",
+      alergias:"Renite, Glutem",
+      hospitalPreferencia:"Sem info",
+      contatosEmergencia: "Irmão Leandro 51 981101543 - Mãe Lenir 51 981101562",
+      medicamentoUsoCont:"Nega",
+      problemaSaude: "Nega",
+      planoSaude: "Nega"
+    } 
+     
+    },
 
 
         
